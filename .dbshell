@@ -1,0 +1,11 @@
+use weather
+show collections
+use weather
+show collections
+coll=db.getCollection("comments")
+coll.find()
+use weather
+show collections
+coll=db.getCOllection("comment")
+coll=db.getCollection("comment")
+coll.find()
